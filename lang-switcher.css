@@ -1,0 +1,10 @@
+/* Polylang language switcher */
+
+.menu-item-language a {
+    text-decoration: none;
+}
+
+.is-current-language a {
+    font-weight: 700;
+    text-decoration: underline;
+}
